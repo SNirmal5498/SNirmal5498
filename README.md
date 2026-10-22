@@ -1,143 +1,89 @@
-
-<!-- ANIMATED PROFILE BANNER -->
+<!-- NIRMAL S | GitHub Profile Header -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C9A7&height=220&section=header&text=NIRMAL%20S&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&descColor=E0F7F4"
-    alt="Nirmal S - Developer Banner"
+    src="https://capsule-render.vercel.app/api?type=rounded&color=0:C5F3F8,35:7DD3FC,68:4ADE80,100:86EFAC&height=190&section=header&text=NIRMAL%20S&fontSize=58&fontColor=0F172A&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Java%20%7C%20Full-Stack%20%7C%20AI&descSize=16&descAlignY=65&descColor=164E63"
     width="100%"
+    alt="Nirmal S — Software Engineer"
   />
 </p>
 
 <p align="center">
   <a href="mailto:nirmalsundaram5498@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nirmalsundaram5498%40gmail.com-00C9A7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nirmal" />
+    <img src="https://img.shields.io/badge/Email-nirmalsundaram5498%40gmail.com-E0F7FA?style=flat-square&logo=gmail&logoColor=0369A1&labelColor=E0F7FA" alt="Email" />
+  </a>
+  <a href="https://github.com/SNirmal5498">
+    <img src="https://img.shields.io/badge/GitHub-SNirmal5498-DCFCE7?style=flat-square&logo=github&logoColor=166534&labelColor=DCFCE7" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Always+Learning.+Always+Building.;Turning+Ideas+Into+Code.;Building+Projects+That+Matter."
-    alt="Animated developer tagline"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=0284C7&center=true&vCenter=true&width=700&lines=Turning+ideas+into+useful+software.;Java+%7C+Full-Stack+Development+%7C+AI;Building+with+curiosity+and+purpose.;Always+learning.+Always+improving."
+    alt="Developer tagline"
   />
 </p>
 
----
+## About me
 
+I’m a software developer in the making, focused on building reliable applications and learning how great products are designed from the ground up.
 
-## 🚀 About Me
+I enjoy working across the stack, exploring AI-powered solutions, and turning challenging problems into simple, practical experiences.
 
-🎓 BE Computer Science and Engineering Student
-
-- 🔭 Building real-world projects using **Java, MERN Stack, and AI**
-- 🌱 Currently improving my **Data Structures & Algorithms and problem-solving skills**
-- 💡 Interested in **Full-Stack Development, Artificial Intelligence, and Automation**
-- 🛠️ Love turning ideas into practical software solutions
-- 🎯 Goal: Become a skilled Software Engineer
-- 🤝 Open to collaborating on interesting projects and learning from developers
-- ⚡ Motto: *Learn. Build. Solve. Repeat.*
+-  Currently exploring **Java, full-stack development, and AI**
+-  Learning by building projects and solving real problems
+-  Interested in clean code, thoughtful interfaces, and useful products
+-  Open to collaboration, internships, and meaningful projects
+-  Reach me at **[nirmalsundaram5498@gmail.com](mailto:nirmalsundaram5498@gmail.com)**
 
 ---
 
-## 💻 Tech Stack
+## What I work with
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,github,vscode&perline=6" alt="Technology stack" />
 </p>
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,jenkins" />
-</p>
-
-### AI & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+> I’m continuously expanding this stack as I learn, build, and ship more projects.
 
 ---
 
-## 🌟 Featured Projects
+## Projects worth exploring
 
-### 🌊 OceanPredict
-An AI-powered platform for Argo float data collection, analysis, and forecasting.
+| Project | What it does | Focus |
+| --- | --- | --- |
+| **[Project One](https://github.com/SNirmal5498)** | Add a short explanation of the problem it solves. | `Java` `Backend` |
+| **[Project Two](https://github.com/SNirmal5498)** | Add a short explanation of the experience or outcome. | `Full Stack` `React` |
+| **[Project Three](https://github.com/SNirmal5498)** | Add a short explanation of the AI or automation idea. | `AI` `Python` |
 
-**Focus:** Flutter · AI · Data Analysis
-
-### 💊 MediBridge
-A multilingual medicine information and pharmacy locator platform designed to make healthcare information more accessible.
-
-**Focus:** React · Node.js · Express · MongoDB
-
-### 🏪 LocalHub
-A digital platform that helps local businesses showcase their products, services, offers, and business information online.
-
-**Focus:** MERN Stack · Authentication · Business Management
-
-### ☁️ Cloud Threat Detection
-A machine-learning project focused on detecting suspicious activity and potential threats in cloud environments.
-
-**Focus:** Python · Machine Learning · Explainable AI
+*Replace these entries with your strongest repositories. A clear problem statement is more compelling than a long feature list.*
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SNirmal5498&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNirmal5498&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SNirmal5498&show_icons=true&hide_border=true&bg_color=00000000&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8&rank_icon=github" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNirmal5498&layout=compact&hide_border=true&bg_color=00000000&title_color=A5B4FC&text_color=CBD5E1" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SNirmal5498&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SNirmal5498&hide_border=true&background=00000000&ring=818CF8&fire=6366F1&currStreakLabel=A5B4FC&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 🧩 My Coding Journey
+## Let’s connect
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="mailto:nirmalsundaram5498@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/SNirmal5498?tab=repositories">
-    <img src="https://img.shields.io/badge/My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-</p>
-
-I believe consistent practice and building projects are the best ways to grow as a developer. Every problem solved and every project built is another step forward. 💪
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
   <a href="https://github.com/SNirmal5498">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=100&section=footer" alt="Footer" />
-</p>
-
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> Let's learn, build, and grow together. 🚀
+  <i>Build with purpose. Learn in public. Keep moving forward.</i>
 </p>
