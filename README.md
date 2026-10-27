@@ -33,12 +33,6 @@ I enjoy working across the stack, exploring AI-powered solutions, and turning ch
 ---
 
 
-
----
-
-
----
-
 ## 🛠️ Tech Stack & Technologies
 
 <!-- FRONTEND DEVELOPMENT -->
