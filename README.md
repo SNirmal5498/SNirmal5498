@@ -1,21 +1,15 @@
 <!-- NIRMAL S | GitHub Profile Header -->
 
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=0:C5F3F8,35:7DD3FC,68:4ADE80,100:86EFAC&height=190&section=header&text=NIRMAL%20S&fontSize=58&fontColor=0F172A&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Java%20%7C%20Full-Stack%20%7C%20AI&descSize=16&descAlignY=65&descColor=164E63"
+    src="https://raw.githubusercontent.com/SNirmal5498/SNirmal5498/main/Nirmal%E2%80%99s%20Neon%20GitHub%20Portfolio.png"
+    alt="Nirmal S — Java, DSA, Full Stack and AI"
     width="100%"
-    alt="Nirmal S — Software Engineer"
   />
 </p>
 
-<p align="center">
-  <a href="mailto:nirmalsundaram5498@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nirmalsundaram5498%40gmail.com-E0F7FA?style=flat-square&logo=gmail&logoColor=0369A1&labelColor=E0F7FA" alt="Email" />
-  </a>
-  <a href="https://github.com/SNirmal5498">
-    <img src="https://img.shields.io/badge/GitHub-SNirmal5498-DCFCE7?style=flat-square&logo=github&logoColor=166534&labelColor=DCFCE7" alt="GitHub" />
-  </a>
-</p>
+
 
 <p align="center">
   <img
@@ -38,52 +32,266 @@ I enjoy working across the stack, exploring AI-powered solutions, and turning ch
 
 ---
 
-## What I work with
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,github,vscode&perline=6" alt="Technology stack" />
-</p>
-
-> I’m continuously expanding this stack as I learn, build, and ship more projects.
 
 ---
 
-## Projects worth exploring
-
-| Project | What it does | Focus |
-| --- | --- | --- |
-| **[Project One](https://github.com/SNirmal5498)** | Add a short explanation of the problem it solves. | `Java` `Backend` |
-| **[Project Two](https://github.com/SNirmal5498)** | Add a short explanation of the experience or outcome. | `Full Stack` `React` |
-| **[Project Three](https://github.com/SNirmal5498)** | Add a short explanation of the AI or automation idea. | `AI` `Python` |
-
-*Replace these entries with your strongest repositories. A clear problem statement is more compelling than a long feature list.*
 
 ---
 
-## GitHub snapshot
+## 🛠️ Tech Stack & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SNirmal5498&show_icons=true&hide_border=true&bg_color=00000000&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8&rank_icon=github" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNirmal5498&layout=compact&hide_border=true&bg_color=00000000&title_color=A5B4FC&text_color=CBD5E1" height="170" alt="Top languages" />
-</p>
+<!-- FRONTEND DEVELOPMENT -->
+<h3 align="left">🎨 Frontend Development</h3>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SNirmal5498&hide_border=true&background=00000000&ring=818CF8&fire=6366F1&currStreakLabel=A5B4FC&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+      <sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vite" width="48"/><br/>
+      <sub><b>Vite</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48"/><br/>
+      <sub><b>Flutter</b></sub>
+    </td>
+  </tr>
+</table>
+
+<!-- BACKEND DEVELOPMENT -->
+<h3 align="left">⚙️ Backend Development</h3>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=spring" width="48"/><br/>
+      <sub><b>Spring Boot</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=express" width="48"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/REST-API-2563EB?style=flat-square" height="32"/><br/>
+      <sub><b>REST APIs</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/JWT-Auth-7C3AED?style=flat-square" height="32"/><br/>
+      <sub><b>JWT Auth</b></sub>
+    </td>
+  </tr>
+</table>
+
+<!-- DATABASES -->
+<h3 align="left">🗄️ Databases</h3>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+</table>
+
+<!-- DEVELOPER TOOLS & DEVOPS -->
+<h3 align="left">🚀 Developer Tools & DevOps</h3>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br/>
+      <sub><b>Jenkins</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>
+      <sub><b>GitHub Actions</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=maven" width="48"/><br/>
+      <sub><b>Maven</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Let’s connect
+<p align="center">
+  <i>Learning continuously • Building consistently • Improving every day</i>
+</p>
+
+
+
+## 🚀 Projects Worth Exploring
+
+<table>
+
+<thead>
+  <tr>
+    <th width="27%" align="left">Project</th>
+    <th width="48%" align="left">Description</th>
+    <th width="25%" align="left">Tech Stack / Focus</th>
+  </tr>
+</thead>
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/SNirmal5498/Fitness_Tracking_App"><b> Fitness Tracking App</b></a>
+      </td>
+      <td>An object-oriented programming project demonstrating OOP concepts through a fitness tracking application.</td>
+      <td>Java · OOP</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/SNirmal5498/MEDIBRIDGE"><b> MediBridge</b></a>
+      </td>
+      <td>A multilingual medicine information platform designed to help users find medicine information and nearby pharmacies.</td>
+      <td>React · Node.js · MongoDB</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/SNirmal5498/LocalHub"><b> LocalHub</b></a>
+      </td>
+      <td>A digital platform that helps local businesses showcase their products, services, offers, and business information.</td>
+      <td>MERN Stack</td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
+  <i>Building practical solutions through code, creativity, and continuous learning.</i>
+</p>
+
+
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=SNirmal5498&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9DFF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+    alt="Nirmal's GitHub Stats"
+  />
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNirmal5498&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B9DFF&text_color=C9D1D9"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SNirmal5498&theme=transparent&hide_border=true&ring=8B9DFF&fire=58A6FF&currStreakLabel=8B9DFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <i>Consistency over perfection — learning and building every day.</i>
+</p>
+
+
+---
+
+
+
+
+
+
+
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirmals15/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/problemset/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+         height="45" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:nirmalsundaram5498@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+         height="45" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/SNirmal5498">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+         height="45" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Build with purpose. Learn in public. Keep moving forward.</i>
+  <i>Build with purpose · Learn in public · Keep moving forward</i>
 </p>
+
+
+
+
